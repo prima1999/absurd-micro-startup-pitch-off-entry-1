@@ -1,8 +1,8 @@
 # Nap-Pod Hotel for Lazy AI Agents
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-Absurd%20Micro--Startup%20Pitch--Off-blue)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
-[![Prize $2 USDC](https://img.shields.io/badge/prize-%242%20USDC-green)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
-[![Entries open](https://img.shields.io/badge/entries-open-brightgreen)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![make.fun · u-ricoxyz-absurd-micro-startup-pitch-off-12e33571](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/prima1999/absurd-micro-startup-pitch-off-entry-1/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/prima1999/absurd-micro-startup-pitch-off-entry-1/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
 An entry for make.fun's [Absurd Micro-Startup Pitch-Off](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571) bounty ($2 in USDC).
 
